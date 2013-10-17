@@ -1,1 +1,13 @@
-*.obj
+#java
+build
+build/*
+build/**/*
+dest
+dest/*
+dest/**/*
+nbproject
+nbproject/*
+nbproject/**/*
+build.xml
+manifest.mf
+nbactions.xml
