@@ -1,4 +1,4 @@
 AutoSycronising
 ===============
 
-Sycronising files automatically via "Jinshan Kuaipan"
+Syncronising files automatically via "Jinshan Kuaipan"
