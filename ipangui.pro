@@ -8,7 +8,7 @@
 
 QT       += core gui network script
 
-TARGET = dist/Debug/GNU-Linux-x86/ipanforlinux
+TARGET = dist/Debug/GNU-Linux-x86/IPanForLinux
 #CONFIG   += console
 CONFIG   -= app_bundle
 

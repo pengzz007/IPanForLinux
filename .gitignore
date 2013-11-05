@@ -5,3 +5,6 @@ dist/**/*
 nbproject
 nbproject/*
 nbproject/**/*
+*.o
+moc_*
+ui_*
