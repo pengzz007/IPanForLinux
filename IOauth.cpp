@@ -539,7 +539,7 @@ QByteArray IOauth::CreatePostData(const QByteArray &fileData,QString& contentTyp
     boundary="--"+boundary+crlf; //每行数据开头
     QByteArray bond=boundary.toAscii();
     data.append(bond);
-    data.append(QString("Content-Disposition: form-data; name=\"file\"; filename=\""\
+    data.append(QString("Content-Disposition: form-data; name=\"file\"; filename=\""
                         +QFileInfo(fileName).fileName()+"\""+crlf).toAscii());
     data.append(QString("Content-Type: application/octet-stream"+crlf).toAscii());
     data.append(crlf.toAscii());
