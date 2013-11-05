@@ -53,7 +53,7 @@
 #include<QApplication>
 #include"public.h"
 #include<QVariant>
-//#include<QtWebKit/QWebView>
+#include<QtWebKit/QWebView>
 #include<QDataStream>
 
 const QString RequestTokenUrl = "https://openapi.kuaipan.cn/open/requestToken";
