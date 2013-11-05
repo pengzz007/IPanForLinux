@@ -1,0 +1,7 @@
+#cpp
+dist
+dist/*
+dist/**/*
+nbproject
+nbproject/*
+nbproject/**/*
