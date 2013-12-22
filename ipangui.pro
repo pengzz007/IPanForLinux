@@ -8,7 +8,7 @@
 
 QT       += core gui network script
 
-TARGET = dist/Debug/GNU-Linux-x86/IPanForLinux
+TARGET = ipangui
 #CONFIG   += console
 CONFIG   -= app_bundle
 
@@ -43,6 +43,3 @@ FORMS += \
     ui/login.ui \
     ui/treedialog.ui \
     ui/filelist.ui
-
-OTHER_FILES += \
-    todo.txt

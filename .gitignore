@@ -1,10 +1,6 @@
 #cpp
-dist
-dist/*
-dist/**/*
-nbproject
-nbproject/*
-nbproject/**/*
+ipangui
+ipangui.pro.user
 *.o
 moc_*
 ui_*
