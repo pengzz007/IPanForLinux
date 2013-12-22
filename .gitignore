@@ -1,5 +1,6 @@
 #cpp
 ipangui
+ipangui.pro.user
 *.o
 moc_*
 ui_*
